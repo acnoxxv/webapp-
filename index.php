@@ -68,9 +68,3 @@ require_once "config.php";
             <a href="create.php" class="btn btn-dark d-block w-100">Aggiungi un nuovo Pokémon!</a>
         </div>
         </div>
-
-        <!-- Bottone per aggiungere un nuovo Pokemon -->
-        <!-- Bottone per aggiungere un nuovo Pokemon -->
-        <!-- Bottone per aggiungere un nuovo Pokemon -->
-        <!-- Bottone per aggiungere un nuovo Pokemon -->
-        <!-- Bottone per aggiungere un nuovo Pokemon -->
